@@ -5,4 +5,11 @@ simple script in python for bypass limit access page using X-Forwarded-For.
 <ul>
   <li>requests</li>
 </ul>
-<strong>pip3 install requirments</strong>
+if you don't have "requirments". 
+<br>
+Open The Terminal and paste this command
+<ul>
+  <li><strong>pip3 install requirments</strong></li>
+  
+</ul>
+
