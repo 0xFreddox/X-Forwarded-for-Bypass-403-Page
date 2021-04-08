@@ -5,7 +5,7 @@ simple script in python for bypass limit access page using X-Forwarded-For.
 <ul>
   <li>requests</li>
 </ul>
-if you don't have "requirments". 
+if you don't have library "requests". 
 <br>
 Open The Terminal and paste this command
 <ul>
