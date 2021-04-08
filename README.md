@@ -9,7 +9,7 @@ if you don't have library "requests".
 <br>
 Open The Terminal and paste this command
 <ul>
-  <li><strong>pip3 install requirments</strong></li>
+  <li><strong>pip3 install requests</strong></li>
   
 </ul>
 
