@@ -1,5 +1,5 @@
 # X-Forwaded-For-Bypass-Limit-access-page
-simple script in python for bypass limit access page using X-Forwarded-For.
+simple script in python for bypass 403 page error by header  X-Forwarded-For.
 <br>
 <strong>requirments:</strong>
 <ul>
